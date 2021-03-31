@@ -1,0 +1,19 @@
+@media screen and (min-width:400px) {
+
+body{
+    background-color: black;
+    color: white;
+}
+
+}
+@media screen and (min-width: 768px) {
+    body {
+      background-color: yellowgreen;
+    }
+
+    .column {
+        width: 220px;
+        float: left;
+        padding: 15px;
+      }
+  }
